@@ -2,7 +2,7 @@
 
 A program for gaining privilege in unix-like environments! Think `sudo` and `doas` but worse and insecure!
 
-See the blogpost about how this works [here]()
+See the blogpost about how this works [here](https://snailscale.io/posts/understanding-sudo/)
 
 ## Running
 
